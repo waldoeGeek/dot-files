@@ -1,0 +1,13 @@
+#! /bin/bash
+updates=$(checkupdates | wc -l)
+check=$(checkupdates)
+number="<span color='#252525'><span font='Monaco'>+$updates</span></span>"
+
+if [ "$updates" -ge 1 ]; then
+  echo "$number"
+  echo "$check" >> ~/bin/uplist
+  notify-send -u critical -t 2000 'Updates Availiable' -u normal "$updates $check"
+else
+  :
+fi
+> ~/bin/uplist

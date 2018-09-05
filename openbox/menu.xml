@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+
+        <!--menu id="desktop-app" label="Applications" execute="openbox-menu -x -t 'sakura -e'" /-->
+
+        
+
+        
+        <!--menu id="preferences" label="Preferences">
+
+                  <item label="Desktop Prefs">
+
+                          <action name="Execute"><command>pcmanfm --desktop-pref</command></action>
+
+                  </item>
+
+                                          <item label="No effects">
+
+                                <action name="Execute">
+
+                                        <execute>
+
+                                                ~/.config/openbox/scripts/xcompmgr.sh unset
+
+                                        </execute>
+
+                                </action>
+
+                        </item>
+
+                        <item label="Transparency">
+
+                                <action name="Execute">
+
+                                        <execute>
+
+                                                ~/.config/openbox/scripts/xcompmgr.sh set
+
+                                        </execute>
+
+                                </action>
+
+                        </item>
+
+                        <item label="Transparency, fadings">
+
+                                <action name="Execute">
+
+                                        <execute>
+
+                                                ~/.config/openbox/scripts/xcompmgr.sh setshaded
+
+                                        </execute>
+
+                                </action>
+
+                        </item>
+
+                        <item label="Transparency, fadings, shadows">
+
+                                <action name="Execute">
+
+                                        <execute>
+
+                                                ~/.config/openbox/scripts/xcompmgr.sh setshadowshade
+
+                                        </execute>
+
+                                </action>
+
+                        </item>
+
+        </menu-->
+
+        <menu id="root-menu" label="Openbox 3">
+
+                  <separator label="Menu" />
+
+                <menu id="desktop-app" />
+
+                  <separator />
+
+                  <item icon="/home/skunky/.icons/custom/terminal.png" label="Terminal"><action name="Execute">
+
+                          <command>mate-terminal</command></action>
+
+                  </item>
+
+                  <item icon="/home/skunky/.icons/custom/firefox.png" label="Firefox">
+
+                          <action name="Execute"><command>firefox</command></action>
+
+                  </item>
+                  <item icon="/home/skunky/.icons/custom/chrome.png" label="Chrome">
+
+                          <action name="Execute"><command>chromium</command></action>
+
+                  </item>
+
+                  <item icon="/home/skunky/.icons/custom/file-open.png" label="File manager">
+
+                          <action name="Execute"><command>pcmanfm</command></action>
+                          
+                  </item>
+
+        <menu id="1" icon="/home/skunky/.icons/custom/keyboard.png" label="Editors">
+          	<item icon="/home/skunky/sublime3/Icon.png" label="Sublime">
+			   <action name="execute"><command>sublime</command></action>
+		  </item>
+		  <item icon="/home/skunky/.icons/custom/atom2.svg" label="Atom">
+			   <action name="execute"><command>atom</command></action>
+		  </item>
+		  <item icon="/home/skunky/.icons/custom/github.svg" label="GitKraken">
+			   <action name="execute"><command>gitkraken</command></action>
+		  </item>
+		  <item label="Gedit">
+          		<action name="execute"><command>gedit</command></action>
+          </item>
+        </menu>
+        <menu id="2" icon="/home/skunky/.icons/custom/shot.png" label="Screenshot">
+        	<item label="Select Area">
+        		<action name="execute"><command>scrot -s</command></action>
+        	</item>
+        	<menu id="2.2" label ="Delayed">
+        		<item label="5 seconds">
+        			<action name="execute"><command>scrot -d 5</command></action>
+        		</item>
+        		<item label="8 seconds">
+        			<action name="execute"><command>scrot -d 8</command></action>
+        		</item>
+        		<item label="10 seconds">
+        			<action name="execute"><command>scrot -d 10</command></action>
+        		</item>
+        	</menu>
+        	<item label="Screen to Gimp">
+        		<action name="execute"><command>scrote.sh</command></action>
+        	</item>
+        </menu>
+        <menu id="network" icon="/home/skunky/.icons/custom/network.png" label="Network">
+	  	  <item label="Settings">
+	  	  	<action name="execute"><command>gnome-control-center network</command></action>
+	  	  </item>
+		  <!--<item label="Network">
+		  	<action name="execute"><command>nm-applet</command></action>
+		  </item>-->
+		  <menu id="Tor" icon="/home/skunky/.icons/custom/tor.png" label="Tor">
+		  <item label="Tor Start">
+		  	<action name="execute"><command>systemctl start tor</command></action>
+		  </item>
+		  <item label="Tor Stop">
+		  	<action name="execute"><command>systemctl stop tor</command></action>
+		  </item>
+		  <item label="Tor Status">
+		  	<action name="execute"><command>mate-terminal -e systemctl status tor</command></action>
+		  </item>
+		  <item label="Tor Browser">
+		  	<action name="execute"><command>sh /home/skunky/Downloads/tor-browser_en-US/Browser/start-tor-browser</command></action>
+		  </item>
+		</menu>
+		</menu>
+        <menu id="3" icon="/home/skunky/.icons/custom/mplayer.png" label="Multimedia">
+		  <item icon="/home/skunky/.icons/custom/ncmpcpp.png" label="Music">
+		  	<action name="execute"><command>urxvt -e ncmpcpp</command></action>
+		  </item>
+		    <item icon="/home/skunky/.icons/custom/vlc.svg" label="VLC">
+		  	<action name="execute"><command>vlc</command></action>
+		  </item>
+		  <item icon="/home/skunky/.icons/custom/totem.png" label="Totem">
+		  	<action name="execute"><command>totem</command></action>
+		  </item>
+		</menu>
+		  <menu id="4" label="Image Manipulation">
+		    <item icon="/home/skunky/.icons/custom/gimp.png" label="Gimp">
+		  	   <action name="execute"><command>gimp</command></action>
+         	</item>
+         	<item label="Inkscape" icon="/home/skunky/.icons/custom/inkscape.png">
+         		<action name="execute"><command>inkscape</command></action>
+         	</item>
+         </menu>
+         <menu id="5" icon="/home/skunky/.icons/custom/email.png" label="Mail">  
+	<item icon="/home/skunky/.icons/custom/claws.png" label="Claws">
+        		<action name="execute"><command>claws-mail</command></action>
+        	</item>
+        <item label="Compose">
+        	<action name="execute"><command>claws-mail --compose</command></action>
+        </item>
+    	</menu>
+    	<menu id="6" icon="/home/skunky/.icons/custom/dropbox.png" label="Dropbox">
+    		<item label="Start">
+    			<action name="execute"><command>dropbox-cli start</command></action>
+    		</item>
+    		<item label="Stop">
+    			<action name="execute"><command>dropbox-cli stop</command></action>
+    		</item>
+    	</menu>
+		  <item icon="/home/skunky/.icons/custom/hexchat.png" label="Hexchat">
+			   <action name="execute"><command>hexchat</command></action>
+		  </item>
+              <item icon="/home/skunky/.icons/custom/skype.png" label="Skype">
+                <action name="execute"><command>skypeforlinux</command></action>
+              </item>
+		  <item icon="/home/skunky/.icons/custom/mcomix.png" label="McomiX">
+		  	<action name="execute"><command>mcomix</command></action>
+		  </item>
+		  <!-- <item label="ScreenCast">
+		  	<action name="execute"><command>vokoscreen</command></action>
+		  </item> -->
+		  <item icon="/home/skunky/.icons/custom/libre-base.png" label="LibreOffice">
+			   <action name="execute"><command>libreoffice</command></action>
+		  </item>
+		  <item icon="/home/skunky/.icons/custom/transmission.png" label="Transmission">
+		  	<action name="execute"><command>transmission-gtk</command></action>
+		  </item>
+                <item label="Run Program..."><action name="Execute">
+
+                        <command>gnome-run-dialog</command></action>
+
+                  </item>
+
+                  <menu id="client-list-menu" />
+
+                  <menu id="openbox-menu" />
+
+              
+
+	<menu id="openbox-menu" icon="/home/skunky/.icons/custom/openbox.png" label="OpenBox">
+
+                	<item label="ObConf">
+			<action name="Execute"><command>obconf</command></action>
+		</item>
+		<item label="ObTheme">
+			<action name="execute"><command>obtheme</command></action>
+		</item>
+                  <item label="Reload Openbox">
+
+                    <action name="Reconfigure" />
+
+                  </item>
+		  <item label="Menu-config">
+			  <action name="execute"><command>sublime ~/.config/openbox/menu.xml</command></action>
+		  </item>
+		  <item label="RC-config">
+		  	<action name ="execute"><command>sublime ~/.config/openbox/rc.xml</command></action>
+		  </item>
+		  <item label="Compton-config">
+		  	<action name="execute"><command>compton-conf</command></action>
+		  </item>
+		  <item label="Compton-reload">
+		  	<action name="execute"><command>compton</command></action>
+		  </item>
+		  <item label="Tint2">
+		  	<action name="execute"><command>tint2</command></action>
+		  </item>
+		  <item label="Lxappearance">
+		  	<action name="execute"><command>lxappearance</command></action>
+		  </item>
+		</menu>
+		  <menu id="preferences" />
+
+                  <separator label="System"/>
+                  <separator/>
+
+                  <!--<item label="Exit">
+
+                        <action name="Exit" />
+
+                </item>-->
+
+             <item label="Log Out">
+
+                        <action name="SessionLogout">
+
+                                <prompt>yes</prompt>
+
+                        </action>
+
+             </item>
+
+                <item icon="/home/skunky/.icons/custom/reboot.png" label="Reboot">
+
+                        <action name="Execute">
+
+                                <execute>shutdown -r now</execute>
+
+                        </action>
+
+                  </item>          
+
+            <item icon="/home/skunky/.icons/custom/shutdown.png" label="Shutdown">
+
+                        <action name="Execute">
+
+                                <execute>shutdown -h now</execute>
+
+                        </action>
+
+                  </item>        
+
+                <!--   <separator />
+
+                <item label="Suspend">
+
+                        <action name="Execute">
+
+                                <execute>dbus-send --system --dest=org.freedesktop.Hal --print-reply /org/freedesktop/Hal/devices/computer org.freedesktop.Hal.Device.SystemPowerManagement.Suspend int32:0</execute>
+
+                                </action>
+
+                </item> -->
+
+        </menu>
+
+</openbox_menu>

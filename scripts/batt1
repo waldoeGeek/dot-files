@@ -1,0 +1,41 @@
+#! /bin/bash
+##This script is for use with the i3blocks status bar
+#Written by Waldoe
+#v1.0
+
+bat=$(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep percentage | cut -c26-)
+bat=$(echo "${bat//%}")
+ac=$(acpi -a | cut -c12-)
+warning="<span color='orange'><span font='FontAwesome'></span></span>"
+red="<span color='red'><span font='FontAwesome'> Low Battery!</span></span>"
+charged="<span color='#55cf00'><span font='Monaco'><span font_weight='heavy'>Charged!</span></span></span>"
+bolt="<span color='#55cf00'><span font='FontAwesome'></span></span>"
+boltz="<span color='black'><span font='FontAwesome'></span></span>"
+if [ "$ac" == on-line ] && [ "$bat" -le 94 ]; then
+  echo " $bolt"
+  # clear
+  # echo ""
+  # sleep 0.5s
+  # clear
+  # echo ""
+  # sleep 0.5s
+  # clear
+  # echo ""
+  # sleep 0.5s
+  # clear
+  # echo ""
+elif [ "$ac" == on-line ] && [ "$bat" -ge 95 ]; then
+  echo "$charged"
+else
+  if [ "$bat" -ge 95 ]; then
+    echo ""
+  elif [ "$bat" -ge 70 ]; then
+    echo ""
+  elif [ "$bat" -ge 50 ]; then
+    echo ""
+  elif [ "$bat" -ge 30 ]; then
+    echo "$warning"
+  elif [ "$bat" -ge 10 ]; then
+    echo "$red"
+  fi
+fi

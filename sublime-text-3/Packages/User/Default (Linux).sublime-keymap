@@ -1,0 +1,17 @@
+[ {"keys": ["ctrl+shift+m"], "command": "toggle_menu"},
+	{"keys": ["ctrl+shift+alt+s"], "command": "run_macro_file", "args": {"file": "Packages/User/c++start.sublime-macro"}},
+  {"keys": ["ctrl+shift+alt+j"], "command": "run_macro_file", "args": {"file": "Packages/User/siaf.sublime-macro"}},
+  { "keys": ["ctrl+shift+s"], "command": "toggle_side_bar" },
+  {"keys": ["tab"], 
+  "command": "expand_abbreviation_by_tab"},
+  { "keys": ["tab"], "command": "indent", "context":
+    [
+        { "key": "text", "operator": "regex_contains", "operand": "." }
+    ]
+},
+{ "keys": ["shift+tab"], "command": "unindent", "context":
+    [
+        { "key": "text", "operator": "regex_contains", "operand": "." }
+    ]
+},
+]

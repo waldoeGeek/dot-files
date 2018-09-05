@@ -1,0 +1,140 @@
+[
+	{
+		"args":
+		{
+			"characters": "#inclu"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "de"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " <iostr"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "eam"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": ">"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "\nusi"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "ng"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " namespac"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "e"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " std;"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": "\nint"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " main"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"contents": "($0)"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"by": "characters",
+			"forward": true
+		},
+		"command": "move"
+	},
+	{
+		"args":
+		{
+			"contents": "{$0}"
+		},
+		"command": "insert_snippet"
+	},
+	{
+		"args":
+		{
+			"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+		},
+		"command": "run_macro_file"
+	},
+	{
+		"args":
+		{
+			"characters": "\n"
+		},
+		"command": "insert"
+	},
+	{
+		"args": null,
+		"command": "left_delete"
+	},
+	{
+		"args":
+		{
+			"characters": "return"
+		},
+		"command": "insert"
+	},
+	{
+		"args":
+		{
+			"characters": " 0;"
+		},
+		"command": "insert"
+	}
+]

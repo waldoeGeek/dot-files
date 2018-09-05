@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"fontSize"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"hei",
+				"max-height"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"size",
+				"background-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"e",
+				"endl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/skunky/Documents/code/gfc-responsive/javascript.js",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "key",
+		"selected_items":
+		[
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: siaf"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/skunky/Documents/code/gfc-responsive"
+	],
+	"file_history":
+	[
+		"/home/skunky/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/skunky/.config/sublime-text-3/Packages/Package Control.sublime-settings",
+		"/home/skunky/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+		"/home/skunky/Documents/code/jquery-course/3.11/index.html",
+		"/home/skunky/Documents/code/jquery-course/3.12/index.html",
+		"/home/skunky/olds/files.txt",
+		"/home/skunky/.config/openbox/menu.xml",
+		"/home/skunky/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/skunky/.config/sublime-text-3/Packages/User/func1.sublime-snippet",
+		"/home/skunky/Documents/code/jquery-course/3.9/2.4.html",
+		"/home/skunky/Documents/code/jquery-course/3.11/jquery-1.7.1.js",
+		"/home/skunky/Documents/code/jquery-course/3.10/index.html",
+		"/home/skunky/Documents/code/jquery-course/3.9/3.9.html",
+		"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+		"/home/skunky/Documents/code/gfc-responsive/javascript.js",
+		"/home/skunky/Documents/code/gfc-responsive/css/mediaqueries.css",
+		"/home/skunky/shell-theme/theme/lint-test.css",
+		"/home/skunky/Documents/code/jquery-course/3.8/3.8.html",
+		"/home/skunky/.config/sublime-text-3/Packages/User/SublimeLinter/linter-plugin-template/messages/install.txt",
+		"/home/skunky/shell-theme/theme/gnome-shell.css",
+		"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/LICENSE",
+		"/home/skunky/Documents/code/jquery-course/2.7/index.html",
+		"/home/skunky/.config/sublime-text-3/Packages/User/jfunc.sublime-snippet",
+		"/home/skunky/Documents/code/jquery-course/2.6/style.css",
+		"/home/skunky/Documents/code/jquery-course/2.6/index.html",
+		"/home/skunky/.config/sublime-text-3/Packages/User/htmlj.sublime-snippet",
+		"/home/skunky/Documents/code/jquery-course/2.5/style.css",
+		"/home/skunky/Documents/code/jquery-course/2.5/index.html",
+		"/srv/http/index.html",
+		"/home/skunky/Documents/code/jquery-course/2.4.html",
+		"/home/skunky/.config/sublime-text-3/Packages/User/siaf.sublime-snippet",
+		"/home/skunky/Documents/code/jquery-course/lesson2.5_files/style.css",
+		"/home/skunky/Documents/code/jquery-course/night.css",
+		"/home/skunky/Documents/code/jquery-course/day.css",
+		"/home/skunky/Documents/code/jquery-course/index.html",
+		"/home/skunky/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/skunky/Documents/code/javascript-jquery-missingmanual/js3e-master/chapter01/hello.html",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/css/main.css",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/services.html",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/contact.html",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/about.html",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/css/mediaqueries.css",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/index.html",
+		"/home/skunky/.cache/.fr-Yx2WIv/Project_files/stylesheet.css",
+		"/home/skunky/Documents/code/TutsPlus - 30 Days to Learn jQuery/Info.txt",
+		"/home/skunky/.fonts/riffic_bold/stylesheet.css",
+		"/home/skunky/.cache/.fr-bB72CN/web fonts/junction_bold_macroman/Junction-bold-webfont.svg",
+		"/home/skunky/.cache/.fr-Ah1b6Q/web fonts/junction_bold_macroman/stylesheet.css",
+		"/home/skunky/.cache/.fr-OL2tcP/Project_files/index.html",
+		"/home/skunky/.cache/.fr-G1JAF3/contact.css",
+		"/home/skunky/Documents/code/geek-for-cheap/jquery1.11.js",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/javascript.js",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/two/index.html",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/two/main.css",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/responsive/two/new.js",
+		"/run/media/skunky/61cdb50f-ee8c-42b6-9a67-0f68bd65f2b0/g4c/index.html",
+		"/home/skunky/Documents/code/geek-for-cheap/index.html",
+		"/home/skunky/Documents/code/geek-for-cheap/css/main.css",
+		"/home/skunky/Documents/code/geek-for-cheap/info.html",
+		"/home/skunky/Documents/code/geek-for-cheap/repairs.html",
+		"/home/skunky/Documents/code/geek-for-cheap/recovery.html",
+		"/home/skunky/Documents/code/geek-for-cheap/install.html",
+		"/home/skunky/Documents/code/geek-for-cheap/virus.html",
+		"/home/skunky/Documents/code/geek-for-cheap/network.html",
+		"/home/skunky/Documents/code/geek-for-cheap/css/medium.css",
+		"/home/skunky/Documents/code/geek-for-cheap/css/small.css",
+		"/home/skunky/.config/openbox/rc.xml",
+		"/home/skunky/.config/ncmpcpp/config",
+		"/home/skunky/.config/compton.conf",
+		"/home/skunky/.conky/dials/meters",
+		"/home/skunky/.config/openbox/autostart",
+		"/home/skunky/Documents/code/c++/ifs.cpp",
+		"/home/skunky/Documents/code/c++/loop.cpp",
+		"/home/skunky/Documents/code/c++/class.cpp",
+		"/home/skunky/Documents/code/c++/encapsulation-private.cpp",
+		"/home/skunky/Documents/code/c++/access-specifiers.cpp",
+		"/home/skunky/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/skunky/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/skunky/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/skunky/.config/sublime-text-3/Packages/Emmet/Default (Linux).sublime-keymap",
+		"/home/skunky/Documents/code/c++/pass-by-reference.cpp",
+		"/home/skunky/Documents/code/c++/encapsulation.cpp",
+		"/home/skunky/Documents/code/c++/rand-nums.cpp",
+		"/home/skunky/Documents/code/c++/recursion-factorial.cpp",
+		"/home/skunky/Documents/code/c++/array-function.cpp",
+		"/home/skunky/Documents/code/c++/def-args1.cpp",
+		"/home/skunky/Documents/code/c++/function-params3.cpp",
+		"/home/skunky/Documents/code/c++/def-args2.cpp",
+		"/home/skunky/Documents/code/c++/funt-overload.cpp",
+		"/home/skunky/Documents/code/c++/rand-nums3.cpp",
+		"/home/skunky/Documents/code/c++/srand2.cpp",
+		"/home/skunky/Documents/code/c++/srand1.cpp",
+		"/home/skunky/Documents/code/c++/rand-nums2.cpp",
+		"/home/skunky/Documents/code/c++/function-params2.cpp",
+		"/home/skunky/.config/sublime-text-3/Packages/User/default_file_type.sublime-settings",
+		"/home/skunky/Documents/code/c++/function-param.cpp",
+		"/home/skunky/Documents/code/c++/function1.cpp",
+		"/home/skunky/Documents/code/c++/log-ops3.cpp",
+		"/home/skunky/Documents/code/c++/dyn-mem.cpp",
+		"/home/skunky/Documents/code/c++/pointer2.cpp",
+		"/home/skunky/Documents/code/c++/pointer.cpp",
+		"/home/skunky/Documents/code/c++/array.cpp",
+		"/home/skunky/Documents/code/c++/array2.cpp",
+		"/home/skunky/Documents/code/c++/array3.cpp",
+		"/home/skunky/Documents/code/c++/string.cpp",
+		"/home/skunky/.config/neofetch/config",
+		"/home/skunky/Documents/code/c++/log-ops2.cpp",
+		"/home/skunky/Documents/code/c++/log-ops1.cpp",
+		"/home/skunky/Documents/code/c++/do.cpp",
+		"/home/skunky/Documents/code/c++/second.cpp",
+		"/home/skunky/Documents/code/c++/switch.cpp",
+		"/home/skunky/Documents/code/c++/first.c",
+		"/home/skunky/.config/sublime-text-3/Packages/Ruby Debugger/Ruby Debugger.sublime-settings",
+		"/home/skunky/Documents/cpp.c/second.cpp",
+		"/home/skunky/Documents/cpp.c/first.c",
+		"/home/skunky/Documents/cpp_coding/first.cpp",
+		"/home/skunky/.config/powerline/themes/shell/default.json",
+		"/usr/lib/python3.6/site-packages/powerline/config_files/colorschemes/default.json",
+		"/usr/lib/python3.6/site-packages/powerline/config_files/config.json",
+		"/home/skunky/Documents/pardon/Measurable-benefit-form-1.txt",
+		"/home/skunky/.config/mpd/mpd.conf",
+		"/home/skunky/bin/admin.pl",
+		"/home/skunky/bin/admin.py",
+		"/home/skunky/Documents/dorking.txt",
+		"/home/skunky/.conky/opensensors/sensors",
+		"/home/skunky/.conky/lyrics/lyrics",
+		"/home/skunky/bin/mpd_lyrics.sh",
+		"/usr/lib/python3.6/site-packages/powerline/bindings/bash/powerline.sh"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"active",
+			"fade",
+			"inactive",
+			"active",
+			"em",
+			"footer",
+			"default",
+			"packages",
+			"70",
+			"green",
+			"lyrics",
+			"pulse",
+			"fifo",
+			"server",
+			"FF0000",
+			"border-radius",
+			"border-raduis",
+			"blue",
+			"<y",
+			"system",
+			"FF0000",
+			"shade",
+			"100",
+			"see"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"25B8B8"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/skunky/Documents/code/gfc-responsive/javascript.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gfc.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

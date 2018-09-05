@@ -1,0 +1,80 @@
+[options]
+scroll_on_output = false
+scroll_on_keystroke = true
+audible_bell = false
+mouse_autohide = false
+allow_bold = true
+dynamic_title = true
+urgent_on_bell = true
+clickable_url = true
+font = Monaco 9
+scrollback_lines = 10000
+search_wrap = true
+#icon_name = terminal
+geometry = 700x260
+
+# "system", "on" or "off"
+cursor_blink = on
+
+# "block", "underline" or "ibeam"
+cursor_shape = ibeam
+
+# $BROWSER is used by default if set, with xdg-open as a fallback
+#browser = xdg-open
+browser = chromium
+# set size hints for the window
+size_hints = false
+
+# Hide links that are no longer valid in url select overlay mode
+filter_unmatched_urls = true
+
+# emit escape sequences for extra modified keys
+#modify_other_keys = false
+[colors]
+
+# special
+foreground      = #82b7b1
+foreground_bold = #82b7b1
+cursor          = #c5c8c6
+background      = #464646
+#old3b3b3b
+
+# black
+color0  = #282a2e
+color8  = #373b41
+# red
+color1  = #a54242
+color9  = #cc6666
+# green
+color2  = #8c9440
+color10 = #b5bd68
+# yellow
+color3  = #2b8fae
+color11 = #f0c674
+# blue
+color4  = #2876e6
+color12 = #0489ff
+# magenta
+color5  = #85678f
+color13 = #aa80b7
+# cyan
+color6  = #5e8d87
+color14 = #8abeb7
+# white
+color7  = #707880
+color15 = #c5c8c6
+
+
+[hints]
+font = Anonymice Nerd Font Mono
+#font = Monaco 12
+#foreground = #dcdccc
+background = #3f3f3f
+#active_foreground = #e68080
+#active_background = #3f3f3f
+#padding = 2
+#border = #3f3f3f
+#border_width = 0.5
+#roundness = 2.0
+
+#vim: ft=dosini cms=#%s

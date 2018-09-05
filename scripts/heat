@@ -1,0 +1,38 @@
+#! /bin/bash
+##This script is for use with the i3blocks status bar
+#Written by Waldoe
+#v1.0
+
+temp=$(sensors | grep temp1 | cut -c16-17 > ~/temps.txt)
+average=$(cat ~/temps.txt|head -10|tr " " "\t"|cut -f13|awk 'f += $1 {printf("%.13g\n",f/NR)}'|tail -1)
+int=${average%.*}
+red="<span color='#cd0404'><span font='FontAwesome'><span font_weight='400'> $int˚C</span></span></span>"
+orange="<span color='#ff4d00'><span font='FontAwesome'><span font_weight='400'> $int˚C</span></span></span>"
+yellow="<span color='#ebff03'><span font='FontAwesome'><span font_weight='400'> $int˚C</span></span></span>"
+green="<span color='#26e318'><span font='FontAwesome'><span font_weight='400'> $int˚C</span></span></span>"
+
+if [ $int -ge 88 ]; then
+  echo "$red"
+  notify-send "Shutting Down Now" 'Your System is Too Hot... Suspending!'
+  sleep m && systemctl suspend
+
+elif [ $int -ge 85 ]; then
+  echo "$red"
+  notify-send "Core Too Hot" 'Computer Will Suspend... Save Work!'
+
+elif [ $int -ge 70 ]; then
+  echo "$red"
+
+elif [ $int -ge 60 ]; then
+  echo "$orange"
+
+elif [ $int -ge 50 ]; then
+  echo "$yellow"
+
+elif [ $int -ge 1 ]; then
+  echo "$green"
+
+fi
+#Icon choices
+#    
+# 

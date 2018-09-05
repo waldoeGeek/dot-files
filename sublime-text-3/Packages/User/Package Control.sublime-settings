@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Autoprefixer",
+		"Color Highlighter",
+		"CSS Extended Completions",
+		"CSSLint",
+		"Jade",
+		"Jade Build",
+		"Libsass Build",
+		"Package Control",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SublimeLinter-contrib-htmllint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phplint",
+		"SublimeLinter-xmllint"
+	]
+}

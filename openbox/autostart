@@ -1,0 +1,19 @@
+gtk-theme-switch2 Waldoe_Blue &
+tint2 &
+sh ~/.fehbg &
+compton &
+#conky -c .conky/opensensors/sensors &
+#conky -c .conky/dials/meters &
+conky -c .conky/lyrics/lyrics &
+conky -c ~/.conky/akrid &
+numlockx &
+sudo hdparm -B 254 /dev/sda &
+#gnome-terminal -x cmatrix -C cyan -B -a -s &
+pa-applet &
+nm-applet &
+mpd &
+indicator-weather &
+#urxvt -e ncmpcpp &
+#espeak -f ~/voice.txt -s 120 -vcustom
+sleep 10 && amixer set 'Master' 100% &
+echo "Hello Thomas Welcome to Arch!" | /home/skunky/voices/fembot

@@ -1,0 +1,3 @@
+#! /bin/bash
+pacman -Qqm > ~/gitlab/pacman-backup/local.lst &
+pacman -Qqe | grep -vx "$(pacman -Qqg base)" | grep -vx "$(pacman -Qqm)" > ~/gitlab/pacman-backup/main.lst

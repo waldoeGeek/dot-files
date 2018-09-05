@@ -1,0 +1,23 @@
+#! /bin/bash
+
+##This script is for use with the i3blocks status bar
+#Written by Waldoe
+#v1.0
+
+bat=$(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | grep percentage | cut -c25-27)
+green="<span color='#55cf00'><span font='FontAwesome'><span font_weight='600'>$bat%</span></span></span>"
+orange="<span color='orange'><span font='FontAwesome'>$bat%</span></span>"
+red="<span color='red'><span font='FontAwesome'>$bat%</span></span>"
+
+if [[ bat -ge 60 ]]; then
+  echo "$green"
+
+elif [[ bat -ge 48 ]]; then
+  echo "$orange"
+
+elif [[ $bat -ge 30 ]]; then
+  echo "$red"
+
+elif [[ bat -ge 25 ]]; then
+  echo "$red"
+fi

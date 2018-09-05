@@ -1,0 +1,6 @@
+#! /bin/bash
+
+song=$(cmus-remote -Q | grep "tag title" | cut -c11-)
+artist=$(cmus-remote -Q | grep "tag artist" | cut -c12-)
+lyricFile=$(cat ~/Music/"$artist-$song")
+notify-send -u low -t 10000 "'$artist-$song'" "$(echo "$lyricFile")"

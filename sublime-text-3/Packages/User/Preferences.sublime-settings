@@ -1,0 +1,30 @@
+{
+	"added_words":
+	[
+		"1000px",
+		"500px",
+		"css",
+		"malware",
+		"unsubscribe",
+		"txt",
+		"_partials",
+		"php"
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Gotham (SL).tmTheme",
+	"font_face": "hack-regular",
+	"font_size": 9.5,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"antivirus"
+	],
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Gotham.sublime-theme",
+	"update_check": false
+}

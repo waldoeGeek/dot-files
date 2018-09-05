@@ -1,0 +1,15 @@
+#! /bin/bash
+# cmus status in i3block
+# play, paused, stopped indicators
+# shows Artist and title
+
+status=$(cmus-remote -Q | grep status | cut -c8-)
+title=$(cmus-remote -Q | grep "tag title" | cut -c11-)
+artist=$(cmus-remote -Q | grep "tag artist" | cut -c12-)
+if [ $status == playing ]; then
+  echo "$artist" "" "$title"
+elif [ $status == paused ]; then
+  echo "$artist" "" "$title"
+else
+  echo
+fi

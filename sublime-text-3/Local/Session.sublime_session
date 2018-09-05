@@ -1,0 +1,1214 @@
+{
+	"folder_history":
+	[
+		"/home/skunky/Documents/code/flexvids/cssgrids/files",
+		"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03",
+		"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06",
+		"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05",
+		"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04",
+		"/home/skunky/Dropbox/25",
+		"/home/skunky/Downloads",
+		"/home/skunky/Documents/code/web-form",
+		"/home/skunky/Documents/code/gfc-responsive",
+		"/srv/http/waldoe.info",
+		"/home/skunky/Documents/code/jquery-course"
+	],
+	"last_version": 3083,
+	"last_window_id": 21,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 723.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bo",
+						"border"
+					],
+					[
+						"s",
+						"space-around"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"flex",
+						"flex-end"
+					],
+					[
+						"fle",
+						"flex-wrap"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"space-",
+						"space-between"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"glob",
+						"global"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"func",
+						"func	func"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"sk",
+						"skunky"
+					],
+					[
+						"img",
+						"imgWidth"
+					],
+					[
+						"slider",
+						"sliderUL"
+					],
+					[
+						"fu",
+						"func1	func1"
+					],
+					[
+						"ico",
+						"icons"
+					],
+					[
+						"ic",
+						"icons"
+					],
+					[
+						"fon",
+						"fontSize"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"contact",
+						"contactForm"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"cur",
+						"cur	cursor: ${pointer};"
+					],
+					[
+						"ta",
+						"target	Attr"
+					],
+					[
+						"h",
+						"height	Attr"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"hei",
+						"max-height"
+					],
+					[
+						"v",
+						"visibility"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"size",
+						"background-size"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"e",
+						"endl"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 384.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: siaf"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					]
+				],
+				"width": 434.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/menus.html",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/CSS/layout.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/CSS/accessibility.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/CSS/nav-social.css",
+				"/home/skunky/Documents/code/flexbox-test/css/.gitignore",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05/menus.html",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05/CSS/nav-multi-level.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05/CSS/nav-mixed.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04/CSS/nav-advanced.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04/menus.html",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04/style-menus.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03/style-menus.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03/CSS/nav-single-level.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03/menus.html",
+				"/home/skunky/.config/openbox/autostart",
+				"/home/skunky/.themes/Waldoe_Blue/gtk-3.0/gtk-widgets.css",
+				"/home/skunky/.themes/Waldoe_Blue/old/gtk-3.0/gtk-widgets-assets.css",
+				"/home/skunky/.themes/Waldoe_Blue/old/gtk-3.0/gtk-widgets.css",
+				"/home/skunky/.themes/Waldoe_Blue/old/gtk-3.0/gnome-applications.css",
+				"/home/skunky/.config/openbox/rc.xml",
+				"/home/skunky/shell-theme/theme/gnome-shell.css",
+				"/home/skunky/.config/tint2/tint2rc",
+				"/home/skunky/.conky/akrid",
+				"/home/skunky/.themes/box-themes/blue/xfzen blue/openbox-3/themerc",
+				"/home/skunky/Dropbox/25/index.php",
+				"/home/skunky/Documents/code/gfc-responsive/index.html",
+				"/home/skunky/.config/openbox/menu.xml",
+				"/home/skunky/shell-theme/theme/gnome-shell-theme.gresource.xml",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/skunky/Documents/code/css-libraries/animate.css",
+				"/home/skunky/Documents/code/css-libraries/bootstrap/bootstrap.css",
+				"/home/skunky/shell-theme/theme/lint-test.css",
+				"/home/skunky/Dropbox/Torrent magnet links",
+				"/home/skunky/Dropbox/25/functions.php",
+				"/home/skunky/Dropbox/25/views/index.tmpl.php",
+				"/home/skunky/.cache/.fr-Va4S8X/Packages",
+				"/home/skunky/words/cogeco",
+				"/home/skunky/Documents/persistence.txt",
+				"/home/skunky/Documents/code/jquery-course/25/views/index.tmpl.php",
+				"/home/skunky/Documents/code/jquery-course/25/index.php",
+				"/home/skunky/Documents/code/jquery-course/25/functions.php",
+				"/home/skunky/.config/sublime-text-3/Packages/User/php.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/25/_partials/footer.php",
+				"/home/skunky/Documents/code/jquery-course/25/_partials/header.php",
+				"/home/skunky/Documents/code/jquery-course/6.25/index.html",
+				"/home/skunky/Documents/code/jquery-course/6.25/jquery1.7.1.js",
+				"/home/skunky/Documents/code/jquery-course/6.25/jquery3.1.1.js",
+				"/srv/http/waldoe.info/ajax.html",
+				"/srv/http/waldoe.info/save.php",
+				"/srv/http/waldoe.info/data.txt",
+				"/home/skunky/Documents/code/jquery-course/6.24/index.html",
+				"/home/skunky/Documents/code/jquery-course/6.24/save.php",
+				"/home/skunky/Documents/code/jquery-course/6.24/save.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/User/func.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/6.23/contact.html",
+				"/home/skunky/Documents/code/jquery-course/6.23/about.html",
+				"/home/skunky/Documents/code/jquery-course/6.23/index.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/5.23/index.html",
+				"/home/skunky/Documents/code/jquery-course/5.22/index.html",
+				"/home/skunky/vid-convert",
+				"/home/skunky/.gnupg/publickey.anonymous.joe@protonmail.com.txt",
+				"/home/skunky/Documents/code/jquery-course/3.12/index.html",
+				"/home/skunky/Documents/code/jquery-course/3.10/index.html",
+				"/home/skunky/Documents/code/jquery3.1.1.js",
+				"/home/skunky/Documents/code/jquery-course/4.21/index.html",
+				"/home/skunky/Documents/code/jquery-course/4.21/jquery1.7.1.js",
+				"/home/skunky/Documents/code/jquery-course/4.20/index.html",
+				"/home/skunky/lessons/lessons",
+				"/home/skunky/Documents/code/jquery-course/4.19/index.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/handlebar.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/4.19/jquery1.11.js",
+				"/home/skunky/Documents/code/jquery-course/4.19/handlebars-v4.0.5.js",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/skunky/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/skunky/Documents/code/gfc-responsive/khbhj.sh",
+				"/home/skunky/shell-theme/theme/array.html",
+				"/home/skunky/.config/sublime-text-3/Packages/Gotham-Theme/Gotham.sublime-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/Gotham-Theme/messages/install.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/A FIle Icon/.sublime/A File Icon.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/Gotham-Theme/.st-file-icons",
+				"/home/skunky/Documents/pardon/Measurable-benefit-form-1.txt",
+				"/home/skunky/shell-theme/theme/variable.html",
+				"/home/skunky/steph_arrizzia.txt",
+				"/home/skunky/.cache/.fr-NFjk3I/.INSTALL",
+				"/home/skunky/.cache/.fr-GoxsRQ/.BUILDINFO",
+				"/home/skunky/Documents/code/jquery-course/photo-slider2/slider.js",
+				"/home/skunky/Documents/code/new/index.html",
+				"/home/skunky/Documents/code/new/javascript.js",
+				"/home/skunky/Documents/code/new/mediaqueries.css",
+				"/home/skunky/Documents/code/new/css/main.css",
+				"/home/skunky/Documents/code/gfc-responsive/css/main.css",
+				"/home/skunky/Documents/code/new/css/reset.css",
+				"/srv/http/waldoe.info/services.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/default_file_type.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/4.18/index.html",
+				"/home/skunky/.config/autostart/MyScript.desktop.desktop",
+				"/home/skunky/.config/autostart/starts.desktop",
+				"/home/skunky/Documents/code/jquery-course/photo-slider2/slider.css",
+				"/home/skunky/Documents/code/jquery-course/photo-slider2/index.html",
+				"/home/skunky/lunks-doc.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/exclamation/exclamation.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/skull/skull.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/Circle/Circle.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/Blueberry/round/Blueberry - round.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/skull/Knob - simple.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/photo-slider/index.html",
+				"/home/skunky/Documents/code/jquery-course/photo-slider/slider.css",
+				"/home/skunky/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/3.13/index.html",
+				"/home/skunky/Documents/code/jquery-course/2.13/untitled.html",
+				"/home/skunky/.config/sublime-text-3/Packages/Color Highliter/ColorHighlighter.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Default.sublime-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/Package Control.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Colorsublime.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/3.11/index.html",
+				"/home/skunky/olds/files.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/User/func1.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/3.9/2.4.html",
+				"/home/skunky/Documents/code/jquery-course/3.11/jquery-1.7.1.js",
+				"/home/skunky/Documents/code/jquery-course/3.9/3.9.html",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/Default (Linux).sublime-keymap",
+				"/home/skunky/Documents/code/gfc-responsive/javascript.js",
+				"/home/skunky/Documents/code/gfc-responsive/css/mediaqueries.css"
+			],
+			"find":
+			{
+				"height": 24.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"totem",
+					"wlan0",
+					"png",
+					"application",
+					"val",
+					"tran",
+					"sublime",
+					"sidebar",
+					"scrollbar",
+					"urxvt",
+					"sublime",
+					"ctrl",
+					".png",
+					"/opt/sublime_text/sublime_text",
+					"1000",
+					"tor",
+					"gimp",
+					";\n",
+					"active",
+					"fade",
+					"inactive",
+					"active",
+					"em",
+					"footer",
+					"default",
+					"packages",
+					"70",
+					"green",
+					"lyrics",
+					"pulse",
+					"fifo",
+					"server",
+					"FF0000",
+					"border-radius",
+					"border-raduis",
+					"blue",
+					"<y",
+					"system",
+					"FF0000",
+					"shade",
+					"100",
+					"see"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"wlp3s0",
+					"sublime",
+					"25B8B8"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1086.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ma",
+						"margin-bottom"
+					],
+					[
+						"a",
+						"a"
+					],
+					[
+						"me",
+						"meta"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"s",
+						"space-around"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"list",
+						"list-style"
+					],
+					[
+						"text-",
+						"text-decoration"
+					],
+					[
+						"flex",
+						"flex-end"
+					],
+					[
+						"fle",
+						"flex-wrap"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"f",
+						"flex"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"text",
+						"text-align"
+					],
+					[
+						"space-",
+						"space-between"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"glob",
+						"global"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"func",
+						"func	func"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"sk",
+						"skunky"
+					],
+					[
+						"img",
+						"imgWidth"
+					],
+					[
+						"slider",
+						"sliderUL"
+					],
+					[
+						"fu",
+						"func1	func1"
+					],
+					[
+						"ico",
+						"icons"
+					],
+					[
+						"ic",
+						"icons"
+					],
+					[
+						"fon",
+						"fontSize"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"contact",
+						"contactForm"
+					],
+					[
+						"padding",
+						"padding"
+					],
+					[
+						"cur",
+						"cur	cursor: ${pointer};"
+					],
+					[
+						"ta",
+						"target	Attr"
+					],
+					[
+						"h",
+						"height	Attr"
+					],
+					[
+						"max",
+						"max-width"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"ba",
+						"background"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"hei",
+						"max-height"
+					],
+					[
+						"v",
+						"visibility"
+					],
+					[
+						"fo",
+						"font-family"
+					],
+					[
+						"padd",
+						"padding-top"
+					],
+					[
+						"size",
+						"background-size"
+					],
+					[
+						"te",
+						"text-decoration"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"e",
+						"endl"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/skunky/.config/openbox/menu.xml",
+					"settings":
+					{
+						"buffer_size": 10852,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/SASS Build/SASS.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Libsass Build/Sass (libsass).sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS - Compressed.sublime-build",
+							""
+						],
+						[
+							"Packages/SASS Build/SASS.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/SASS Build/SASS.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 384.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"au",
+						"Autoprefix CSS"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: siaf"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					]
+				],
+				"width": 475.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/skunky/Documents/code/flexvids/cssgrids/files"
+			],
+			"file_history":
+			[
+				"/home/skunky/.config/openbox/rc.xml",
+				"/home/skunky/.fonts/foundation-icons/foundation-icons.css",
+				"/home/skunky/Documents/code/flexvids/cssgrids/files/includes/col-1.jade",
+				"/home/skunky/Documents/code/flexvids/cssgrids/files/css/style.sass",
+				"/home/skunky/Documents/code/flexvids/cssgrids/files/includes/col-3.jade",
+				"/home/skunky/Documents/code/flexvids/cssgrids/files/index.jade",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/skunky/Documents/code/flexvids/cssgrids/files/includes/col-2.jade",
+				"/home/skunky/Documents/code/flexvids/cssgrids/files/index.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/htmljade.sublime-snippet",
+				"/home/skunky/Documents/code/flexbox-test/css/style2.css",
+				"/home/skunky/Documents/code/flexbox-test/css/style2.sass",
+				"/home/skunky/Documents/code/flexbox-test/untitled.html",
+				"/home/skunky/Documents/code/flexbox-test/css/style.css",
+				"/home/skunky/.conky/akrid",
+				"/home/skunky/.config/sublime-text-3/Packages/User/ColorHighlighter.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+				"/home/skunky/Documents/code/flexbox-test/jade.html",
+				"/home/skunky/Documents/code/flexbox-test/css/style82.css",
+				"/home/skunky/Documents/code/flexbox-test/css/style82.css.map",
+				"/home/skunky/.config/sublime-text-3/Packages/Libsass Build/Libsass Build.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Libsass Build.sublime-settings",
+				"/home/skunky/Documents/code/flexbox-test/jade.jade",
+				"/home/skunky/.config/sublime-text-3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Autoprefixer.sublime-settings",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/menus.html",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/CSS/layout.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/CSS/accessibility.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_06/CSS/nav-social.css",
+				"/home/skunky/Documents/code/flexbox-test/css/.gitignore",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05/menus.html",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05/CSS/nav-multi-level.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_05/CSS/nav-mixed.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04/CSS/nav-advanced.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04/menus.html",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_04/style-menus.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03/style-menus.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03/CSS/nav-single-level.css",
+				"/home/skunky/Documents/code/Lynda - Advanced Responsive Layouts with CSS Flexbox/Exercise Files/Chapter_02/02_03/menus.html",
+				"/home/skunky/.config/openbox/autostart",
+				"/home/skunky/.themes/Waldoe_Blue/gtk-3.0/gtk-widgets.css",
+				"/home/skunky/.themes/Waldoe_Blue/old/gtk-3.0/gtk-widgets-assets.css",
+				"/home/skunky/.themes/Waldoe_Blue/old/gtk-3.0/gtk-widgets.css",
+				"/home/skunky/.themes/Waldoe_Blue/old/gtk-3.0/gnome-applications.css",
+				"/home/skunky/shell-theme/theme/gnome-shell.css",
+				"/home/skunky/.config/tint2/tint2rc",
+				"/home/skunky/.themes/box-themes/blue/xfzen blue/openbox-3/themerc",
+				"/home/skunky/Dropbox/25/index.php",
+				"/home/skunky/Documents/code/gfc-responsive/index.html",
+				"/home/skunky/.config/openbox/menu.xml",
+				"/home/skunky/shell-theme/theme/gnome-shell-theme.gresource.xml",
+				"/home/skunky/Documents/code/css-libraries/animate.css",
+				"/home/skunky/Documents/code/css-libraries/bootstrap/bootstrap.css",
+				"/home/skunky/shell-theme/theme/lint-test.css",
+				"/home/skunky/Dropbox/Torrent magnet links",
+				"/home/skunky/Dropbox/25/functions.php",
+				"/home/skunky/Dropbox/25/views/index.tmpl.php",
+				"/home/skunky/.cache/.fr-Va4S8X/Packages",
+				"/home/skunky/words/cogeco",
+				"/home/skunky/Documents/persistence.txt",
+				"/home/skunky/Documents/code/jquery-course/25/views/index.tmpl.php",
+				"/home/skunky/Documents/code/jquery-course/25/index.php",
+				"/home/skunky/Documents/code/jquery-course/25/functions.php",
+				"/home/skunky/.config/sublime-text-3/Packages/User/php.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/25/_partials/footer.php",
+				"/home/skunky/Documents/code/jquery-course/25/_partials/header.php",
+				"/home/skunky/Documents/code/jquery-course/6.25/index.html",
+				"/home/skunky/Documents/code/jquery-course/6.25/jquery1.7.1.js",
+				"/home/skunky/Documents/code/jquery-course/6.25/jquery3.1.1.js",
+				"/srv/http/waldoe.info/ajax.html",
+				"/srv/http/waldoe.info/save.php",
+				"/srv/http/waldoe.info/data.txt",
+				"/home/skunky/Documents/code/jquery-course/6.24/index.html",
+				"/home/skunky/Documents/code/jquery-course/6.24/save.php",
+				"/home/skunky/Documents/code/jquery-course/6.24/save.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/User/func.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/6.23/contact.html",
+				"/home/skunky/Documents/code/jquery-course/6.23/about.html",
+				"/home/skunky/Documents/code/jquery-course/6.23/index.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/5.23/index.html",
+				"/home/skunky/Documents/code/jquery-course/5.22/index.html",
+				"/home/skunky/vid-convert",
+				"/home/skunky/.gnupg/publickey.anonymous.joe@protonmail.com.txt",
+				"/home/skunky/Documents/code/jquery-course/3.12/index.html",
+				"/home/skunky/Documents/code/jquery-course/3.10/index.html",
+				"/home/skunky/Documents/code/jquery3.1.1.js",
+				"/home/skunky/Documents/code/jquery-course/4.21/index.html",
+				"/home/skunky/Documents/code/jquery-course/4.21/jquery1.7.1.js",
+				"/home/skunky/Documents/code/jquery-course/4.20/index.html",
+				"/home/skunky/lessons/lessons",
+				"/home/skunky/Documents/code/jquery-course/4.19/index.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/handlebar.sublime-snippet",
+				"/home/skunky/Documents/code/jquery-course/4.19/jquery1.11.js",
+				"/home/skunky/Documents/code/jquery-course/4.19/handlebars-v4.0.5.js",
+				"/home/skunky/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/skunky/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/skunky/Documents/code/gfc-responsive/khbhj.sh",
+				"/home/skunky/shell-theme/theme/array.html",
+				"/home/skunky/.config/sublime-text-3/Packages/Gotham-Theme/Gotham.sublime-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/Gotham-Theme/messages/install.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/A FIle Icon/.sublime/A File Icon.sublime-settings",
+				"/home/skunky/.config/sublime-text-3/Packages/Gotham-Theme/.st-file-icons",
+				"/home/skunky/Documents/pardon/Measurable-benefit-form-1.txt",
+				"/home/skunky/shell-theme/theme/variable.html",
+				"/home/skunky/steph_arrizzia.txt",
+				"/home/skunky/.cache/.fr-NFjk3I/.INSTALL",
+				"/home/skunky/.cache/.fr-GoxsRQ/.BUILDINFO",
+				"/home/skunky/Documents/code/jquery-course/photo-slider2/slider.js",
+				"/home/skunky/Documents/code/new/index.html",
+				"/home/skunky/Documents/code/new/javascript.js",
+				"/home/skunky/Documents/code/new/mediaqueries.css",
+				"/home/skunky/Documents/code/new/css/main.css",
+				"/home/skunky/Documents/code/gfc-responsive/css/main.css",
+				"/home/skunky/Documents/code/new/css/reset.css",
+				"/srv/http/waldoe.info/services.html",
+				"/home/skunky/.config/sublime-text-3/Packages/User/default_file_type.sublime-settings",
+				"/home/skunky/Documents/code/jquery-course/4.18/index.html",
+				"/home/skunky/.config/autostart/MyScript.desktop.desktop",
+				"/home/skunky/.config/autostart/starts.desktop",
+				"/home/skunky/Documents/code/jquery-course/photo-slider2/slider.css",
+				"/home/skunky/Documents/code/jquery-course/photo-slider2/index.html",
+				"/home/skunky/lunks-doc.txt",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/exclamation/exclamation.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/skull/skull.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/Circle/Circle.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/Blueberry/round/Blueberry - round.gutter-theme",
+				"/home/skunky/.config/sublime-text-3/Packages/SublimeLinter/gutter-themes/skull/Knob - simple.gutter-theme"
+			],
+			"find":
+			{
+				"height": 40.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"full",
+					"fullscreen",
+					"enter",
+					"totem",
+					"wlan0",
+					"png",
+					"application",
+					"val",
+					"tran",
+					"sublime",
+					"sidebar",
+					"scrollbar",
+					"urxvt",
+					"sublime",
+					"ctrl",
+					".png",
+					"/opt/sublime_text/sublime_text",
+					"1000",
+					"tor",
+					"gimp",
+					";\n",
+					"active",
+					"fade",
+					"inactive",
+					"active",
+					"em",
+					"footer",
+					"default",
+					"packages",
+					"70",
+					"green",
+					"lyrics",
+					"pulse",
+					"fifo",
+					"server",
+					"FF0000",
+					"border-radius",
+					"border-raduis",
+					"blue",
+					"<y",
+					"system",
+					"FF0000",
+					"shade",
+					"100",
+					"see"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"wlp3s0",
+					"sublime",
+					"25B8B8"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/skunky/Documents/code/flexvids/cssgrids/files"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/skunky/.config/openbox/menu.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10852,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5765,
+										5765
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2324.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.exec":
+			{
+				"height": 114.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+			"position": "0,0,0,0,0,681,23,1363,746,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 131.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 19,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/skunky/Documents/code/gfc-responsive/css/main.sublime-workspace",
+			"/home/skunky/.config/sublime-text-3/Packages/User/gfc.sublime-workspace"
+		]
+	}
+}

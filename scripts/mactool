@@ -1,0 +1,26 @@
+#! /bin/bash
+####################
+echo "SCRIPT BY WALDOE"
+echo "This script will lookup the mac address of any vendor"
+####################
+#colors
+####################
+CYAN='\033[0;36m'
+YELLOW='\033[0;33m'
+NC='\033[0m' # No Color
+#####################
+echo -e ${YELLOW}"Enter MAC"
+#read OUI
+clear
+echo "$1" >> ~/bin/mactool.txt
+OUII=$(cut -c1-8 ~/bin/mactool.txt)
+if grep -q $OUII ~/oui.txt ; then
+echo "Found!"
+grep -i $OUII ~/oui.txt
+> ~/bin/mactool.txt
+else
+echo "Not Found!"
+> ~/bin/mactool.txt
+fi
+#> ~/bin/new.txt
+echo -e "${CYAN}!Log Cleared" ${NC}

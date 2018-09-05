@@ -1,0 +1,15 @@
+#!/bin/bash
+status=$(cmus-remote -Q | grep status | cut -c8-)
+if [[ $status == playing ]]; then
+  echo""
+fi
+  if [[ $status == playing ]]; then
+    cmus-remote -u;
+    echo ""
+  elif [[ $status == paused ]]; then
+    cmus-remote -u;
+    echo ""
+  else
+    termite -c /home/skunky/.config/termite/config-cmus -e cmus &
+    echo ""
+  fi

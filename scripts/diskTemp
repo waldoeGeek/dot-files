@@ -1,0 +1,26 @@
+#! /bin/bash
+##This script is for use with the i3blocks status bar
+#Written by Waldoe
+#v1.0
+
+degrees=$(sudo hddtemp /dev/sda | cut -c31-32)
+temp=${degrees%.*}
+red="<span color='#cd0404'><span font='FontAwesome'><span font_weight='400'> $temp˚C</span></span></span>"
+orange="<span color='#ff4d00'><span font='FontAwesome'><span font_weight='400'> $temp˚C</span></span></span>"
+yellow="<span color='#ebff03'><span font='FontAwesome'><span font_weight='400'> $temp˚C</span></span></span>"
+green="<span color='#26e318'><span font='FontAwesome'><span font_weight='400'> $temp˚C</span></span></span>"
+
+if [ $temp -ge 56 ]; then
+  echo "$red"
+
+elif [ $temp -ge 50 ]; then
+  echo "$orange"
+
+elif [ $temp -ge 40 ]; then
+  echo "$yellow"
+
+elif [ $temp -ge 10 ]; then
+  echo "$green"
+
+fi
+#
