@@ -19,7 +19,9 @@ current hardware specs.
 
 
 *Heat*  
-This script outputs average core temp. Again colors change based on heat level.  
+This script outputs average core temp. Again colors change based on heat level.
+Green is all good, orange is getting hot and red is critical. These levels are based on 
+my system so e sure to change youre temp values if they differ.  
 
 ![cmus](img/cmus-block.png "cmus blocks")
 
